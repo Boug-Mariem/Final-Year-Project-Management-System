@@ -1,0 +1,16 @@
+# Fichiers Eclipse
+.project
+.classpath
+.settings/
+
+# Fichiers compilés
+*.class
+bin/
+
+# Dossiers d'IDE
+.idea/
+*.iml
+
+# Fichiers système
+.DS_Store
+Thumbs.db
