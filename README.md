@@ -4,7 +4,7 @@ Ce projet est une application Java Swing permettant de gérer les projets de fin
 
 ## Fonctionnalités principales
 
-- Ajout et suppression des étudiants, enseignants, encadreurs et sociétés
+- Ajout et suppression des étudiants, enseignants et encadreurs 
 - Ajout, modification et suppression des projets
 - Création et planification des soutenances (jour, salle, etc.)
 - Création des jurys pour les soutenances
